@@ -167,9 +167,9 @@
 
 | Name                                                 | 기간              | 기술스택                                                     | 담당역할                                     | 프로젝트 개요                                        |
 | ---------------------------------------------------- | ----------------- | ------------------------------------------------------------ | -------------------------------------------- | ---------------------------------------------------- |
-| [MPTI](README.assets\MyProjects\MPTI.md)             | 2023.01 ~ 2023.02 | JavaScript, React.js, WebRTC, WebSocket                      | WebRTC, WebSocket통신 적용, 컴포넌트 UI 제작 | MPTI라는 화상채팅을 통한 PT서비스 제공 웹사이트      |
-| [Constelink](README.assets\MyProjects\Constelink.md) | 2023.02 ~ 2023.04 | Java, JavaScript, React.js, Redux, Solidity, Spring, TypeScript, web3.js | Backend, Frontend                            | 블록체인 기반 기부 서비스 제공 웹사이트              |
-| [LuckQuiz](README.assets\MyProjects\LuckQuiz.md)     | 2023.04 ~ 2023.05 | Java, Kafka, Spring, Stomp                                   | Backend api 구현                             | kafka와 Stomp 프로토콜을 이용하여 만든 퀴즈 웹사이트 |
+| [MPTI](README.assets/MyProjects/MPTI.md)             | 2023.01 ~ 2023.02 | JavaScript, React.js, WebRTC, WebSocket                      | WebRTC, WebSocket통신 적용, 컴포넌트 UI 제작 | MPTI라는 화상채팅을 통한 PT서비스 제공 웹사이트      |
+| [Constelink](README.assets/MyProjects/Constelink.md) | 2023.02 ~ 2023.04 | Java, JavaScript, React.js, Redux, Solidity, Spring, TypeScript, web3.js | Backend, Frontend                            | 블록체인 기반 기부 서비스 제공 웹사이트              |
+| [LuckQuiz](README.assets/MyProjects/LuckQuiz.md)     | 2023.04 ~ 2023.05 | Java, Kafka, Spring, Stomp                                   | Backend api 구현                             | kafka와 Stomp 프로토콜을 이용하여 만든 퀴즈 웹사이트 |
 
 # <div align=center>
 
