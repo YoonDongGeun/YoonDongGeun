@@ -181,6 +181,6 @@ Yoon Carrot
 </div>
 <hd>
 
-![YoonDongGeun's GitHub stats](README.assets/api.svg+xml)
-[![Top Langs](README.assets/1684994526505-2.svg+xml)](https://github.com/YoonDongGeun/github-readme-stats)
+![YoonDongGeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonDongGeun&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonDongGeun)](https://github.com/YoonDongGeun/github-readme-stats)
 
