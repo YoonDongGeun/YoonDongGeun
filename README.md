@@ -5,7 +5,6 @@
 - 이름          - 윤동근
 - MBTI         - ISTP
 - E-MAIL.     - ehdrmsdl9999@naver.com
-- Git-hub.    - [https://github.com/YoonDongGeun](https://github.com/YoonDongGeun)
 
 ## 👨‍💻 Introducing :
 
