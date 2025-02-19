@@ -1,6 +1,5 @@
 # 🧗 [What If형 개발자]  윤동근
 
-![Untitled](README.assets/Untitled.png)
 
 - 이름          - 윤동근
 - MBTI         - ISTP
