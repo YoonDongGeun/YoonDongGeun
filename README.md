@@ -4,6 +4,7 @@
 - 이름          - 윤동근
 - MBTI         - ISTP
 - E-MAIL.     - ehdrmsdl9999@naver.com
+<br/>
 
 ## 소개 / About Me
 -	 React와 Typescript 기반의 프론트엔드 개발자
@@ -11,6 +12,8 @@
 -	 FSD 아키텍처, 헤드리스 컴포넌트 같은 새로운 개발 아키텍처 관심
 -	 개인 블로그를 통해 실제 제작, 배포, 운영 및 서비스 경험을 기르려는 노력
 -	 프론트엔드, 백엔드, 프로그래밍 자체를 잘하고 싶은 욕심쟁이
+<br/>
+  
 ## 기술스택 / Skill Set
 | 구분                   | 기술                                                         |
 |------------------------|--------------------------------------------------------------|
@@ -22,14 +25,14 @@
 | **Environment**        | AWS, Linux                                                   |
 | **Database**          | MariaDB, MySQL, Redis                                        |
 | **Collaboration Tools** | Jira, Confluence, Figma, Git Project                        |
-
+<br/>
 
 ## 경력 / EXPERIENCE    총 2년 6개월
 | 기간                  | 조직/회사 명       | 역할                        | 비고                          |
 |-----------------------|------------------|-----------------------------|------------------------------|
 | 2023.07.17 - 2024.12.03 | TMAX BI         | Frontend 연구원              | - 커머스 상품, CRM 개발 <br> - 농어촌공사 민원 IMS |
 | 2022.07.06 - 2023.06.30 | SSAFY           | SSAFY(소프트웨어 아카데미) 교육 수료 | - 1600시간 이수                 |
-
+<br/>
 
 # 주요 프로젝트 / Projects
 
@@ -42,6 +45,8 @@
 | **주요 업무** | - 공통 컴포넌트 제작 (Modal, AutoComplete Searchbar, Toast, Popover, File Upload 등) <br> - 민원 유형 기획 보완 및 페이지 제작 |
 | **성과 / 결과** | - Render Props, Headless 패턴의 공통 컴포넌트로 개발 속도 증가 <br> - 상세 기획 보완을 통한 민원 처리 시스템 개선 |
 
+<br/>
+
 ### 🛒 CRM, E-Commerce 시스템 개발 (2023.07 ~ 2024.12)
 | 항목 | 내용 |
 |------|------|
@@ -51,7 +56,9 @@
 | **주요 업무** | - 상품 유형, 재고 관리, 구조, 가격 정책 설계 및 구현 <br> - 다양한 유형의 상품을 생성 및 관리할 수 있는 페이지 개발 |
 | **성과 / 결과** | - 상품 등록 화면 구현 <br> - 상품 DB 설계 |
 
-### 개인 블로그 (2025.01 ~ 진행 중)
+<br/>
+
+### 📝 개인 블로그 (2025.01 ~ 진행 중)
 | 항목 | 내용 |
 |------|------|
 | **사용 기술** | **Frontend**: Next.js 15, Tailwind v4.0, Beaties, Motion, ProseMirror, Tiptap <br> **Backend**: Spring Boot 3, Spring Security 6, JPA, Redis, MySQL, NginX <br> **CI/CD**: Docker, Jenkins, Git, Gradle, Pnpm, Turborepo <br> **Cloud**: S3, EC2, Vercel <br> **운영/분석**: GA4 |
@@ -60,11 +67,12 @@
 | **성과 / 결과** | - 홈 화면 Lighthouse 테스트 100점 <br> - SSR을 고려한 Custom Editor 구축 <br> - Subdomain에서 안전한 보안 제공 <br> - 모니터링을 통한 유지 보수성 향상 <br> - 구글 OAuth 클라이언트 인증 |
 | **참고 자료** | [yooncarrot.com](https://yooncarrot.com) |
 
----
+<br/>
 
 # 기타 프로젝트 / Other Projects
 
-### 실시간 퀴즈 제공 서비스(2023.04 ~ 2023.05)
+
+### 🏆 실시간 퀴즈 제공 서비스(2023.04 ~ 2023.05)
 
 | 프로젝트 명  | LuckQuiz |
 |-------------|----------|
@@ -74,7 +82,9 @@
 | 성과/결과 | - 실시간 채점 기능 및 랭킹 시스템 구축 <br> - Kafka로 안정적인 트래픽 처리 |
 | 참고자료 | [Notion](https://nettle-wasabi-3f2.notion.site/LuckQuiz-aae7fe5c1b8d4832b7af6355560d8fe9?pvs=4) |
 
-### 블록체인 기반 기부 서비스(2023.02 ~ 2023.04)
+<br/>
+
+### 💰 블록체인 기반 기부 서비스(2023.02 ~ 2023.04)
 
 | 프로젝트 명  | Constelink |
 |-------------|-----------|
@@ -84,7 +94,9 @@
 | 성과/결과 | - 기부 기록 페이지 UI 구현 <br> - 환자 등록과 치료 일지 DB 설계 및 API 구축 |
 | 참고자료 |  |
 
-### 온라인 PT 서비스(2023.01 ~ 2023.02)
+<br/>
+
+### 🏋️ 온라인 PT 서비스(2023.01 ~ 2023.02)
 
 | 프로젝트 명  | MPTI |
 |-------------|------|
