@@ -21,11 +21,12 @@
 | 농어촌 공사 민원 IMS            | Legacy 민원 시스템과 호환 가능한 민원 관리 시스템 구축    | 2024.04 \~ 2024.12 |
 | AWS reinvent 2023 행사 웹 | AWS행사장에서 Tmax 클라우드와 DB 서비스 소개용 화면 | 2023.11 \~ 2023.11            |
 
-## 사이드 프로젝트
-| 프로젝트명            | 간단 소개                              | 기간                 |
-| ---------------- | ---------------------------------- | ------------------ |
-| 개인 블로그           | 커스텀 에디터 탑재, NextJS + Spring 기반 블로그 | 2025.01 \~ 진행중     |
-| Chit a Chat      | 글로벌 소개팅 및 커뮤니티 웹사이트                | 2024.06 \~ 2025.01 |
-| Luck Quiz  | Kafka, WebSocket 기반 실시간 퀴즈게임       | 2023.04 \~ 2023.05 |
-| Constelink | 블록체인 기반 투명 기부 서비스                  | 2023.02 \~ 2023.04 |
-| MPTI      | WebRTC 화상채팅 기반 온라인 PT 서비스          | 2023.01 \~ 2023.02 |
+| 프로젝트명       | 간단 소개                              | 기간                 | 참고 자료                                                                                           |
+| ----------- | ---------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------- |
+| 개인 블로그      | 커스텀 에디터 탑재, NextJS + Spring 기반 블로그 | 2025.01 \~ 진행중     | [블로그](https://yooncarrot.com)                                                                   |
+| Chit a Chat | 글로벌 소개팅 및 커뮤니티 웹사이트                | 2024.06 \~ 2025.01 | [GitHub](https://github.com/chit-a-chat/FE)                                                     |
+| Luck Quiz   | Kafka, WebSocket 기반 실시간 퀴즈게임       | 2023.04 \~ 2023.05 | [Notion](https://nettle-wasabi-3f2.notion.site/LuckQuiz-aae7fe5c1b8d4832b7af6355560d8fe9?pvs=4) |
+| Constelink  | 블록체인 기반 투명 기부 서비스                  | 2023.02 \~ 2023.04 | [Notion](https://nettle-wasabi-3f2.notion.site/Constelink-19422aaa8d62413bbeac9cc1648e934d)     |
+| MPTI        | WebRTC 화상채팅 기반 온라인 PT 서비스          | 2023.01 \~ 2023.02 | [Notion](https://nettle-wasabi-3f2.notion.site/MPTI-cb3f81f666dd4dc2a9fb1b536a7f37c3)           |
+
+
