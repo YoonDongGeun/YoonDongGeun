@@ -26,7 +26,7 @@
 | 개인 블로그      | 커스텀 에디터 탑재, NextJS + Spring 기반 블로그 | 2025.01 \~ 진행중     | [블로그](https://yooncarrot.com)                                                                   |
 | Chit a Chat | 글로벌 소개팅 및 커뮤니티 웹사이트                | 2024.06 \~ 2025.01 | [GitHub](https://github.com/chit-a-chat/FE)                                                     |
 | Luck Quiz   | Kafka, WebSocket 기반 실시간 퀴즈게임       | 2023.04 \~ 2023.05 | [Notion](https://nettle-wasabi-3f2.notion.site/LuckQuiz-aae7fe5c1b8d4832b7af6355560d8fe9?pvs=4) |
-| Constelink  | 블록체인 기반 투명 기부 서비스                  | 2023.02 \~ 2023.04 | [Notion](https://nettle-wasabi-3f2.notion.site/Constelink-19422aaa8d62413bbeac9cc1648e934d)     |
-| MPTI        | WebRTC 화상채팅 기반 온라인 PT 서비스          | 2023.01 \~ 2023.02 | [Notion](https://nettle-wasabi-3f2.notion.site/MPTI-cb3f81f666dd4dc2a9fb1b536a7f37c3)           |
+| Constelink  | 블록체인 기반 투명 기부 서비스                  | 2023.02 \~ 2023.04 | -     |
+| MPTI        | WebRTC 화상채팅 기반 온라인 PT 서비스          | 2023.01 \~ 2023.02 | -           |
 
 
