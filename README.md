@@ -1,9 +1,9 @@
 # 🧗 [Developer]  윤동근
 
 - 이름          - 윤동근
-- MBTI         - ISTP
 - E-MAIL     - ehdrmsdl9999@naver.com
 - Blog        - https://yooncarrot.com
+- 자격증       - 정보처리 기사 | 화공 기사
 <br/>
 
 ## 진행중 프로젝트
