@@ -7,10 +7,45 @@
 <br/>
 
 ## 진행중 프로젝트
-| 프로젝트명       | 간단 소개                    | 역할           | 기간       | 참고 자료   |
-| ----------- | ---------------------------------- | ------------------ | ---------- | ------------------------------------------------------------------------------------- |
-| Mockly | AI Assist 면접 연습 서비스          | 프론트엔드      | 2025.11 \~ 진행중  |[GitHub](https://github.com/Mockly-Company) \| [스토리북](https://69324aeddcbd1324310464e9-tcmytslxpa.chromatic.com/)                                          |
-<br/>
+<table>
+  <tr>
+  <th>프로젝트명</th>
+    <th>간단 소개</th>
+    <th>역할</th>
+    <th>기간</th>
+    <th>참고 자료</th>
+  </tr>
+  <tr>
+    <td>Mockly</td>
+    <td>
+      <span>AI 면접 연습 서비스</span> <br/>
+      <span>Online 면접 메이트</span> <br/>
+      <span>오프라인 면접 메이트</span>
+    </td>
+    <td>프론트 엔드</td>
+    <td>2025.11 ~ 진행중</td>
+    <td><a href="https://github.com/Mockly-Company">GitHub</a> | <a href="https://69324aeddcbd1324310464e9-tcmytslxpa.chromatic.com/">디자인 시스템</a></td>
+  </tr>
+  <tr>
+    <th colspan="5">
+      Mockly 진행상황
+    </th>
+  </tr>
+  <tr>
+      <td>라이트 앱 UI</td>
+      <td>다크 앱 UI</td>
+      <td>모바일 스토리북</td>
+      <td colspan="2">웹 스토리북</td>
+  </tr>
+  <tr>
+    <td><image src="https://github.com/user-attachments/assets/5f3a634e-6d5f-4544-8bc6-b225bf8e3f30" style="width:300;"></image></td>
+    <td><image src="https://github.com/user-attachments/assets/e9408cb8-872a-45e4-ba31-6883f859233a" style="width:300;"></image></td>
+        <td><image src="https://github.com/user-attachments/assets/c11f1b8b-686e-435d-b64f-4a7a3818ee20" style="width:300;"></image></td>
+        <td colspan="2"><image src="https://github.com/user-attachments/assets/0f9f4d8a-56dc-4727-b6d5-c7bf5bd3c12e" style="width:300;">
+          <!-- <a href="https://69324aeddcbd1324310464e9-tcmytslxpa.chromatic.com/"></a> -->
+        </image></td>
+  </tr>
+</table>
 
 ## 비지니스 프로젝트
 | 프로젝트명               | 간단 소개     | 역할        | 기간                |
