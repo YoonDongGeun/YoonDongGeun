@@ -24,7 +24,7 @@
     </td>
     <td>2명(FE 1, BE 1)/FE</td>
     <td>2025.11 ~ 진행중</td>
-    <td><a href="https://github.com/Mockly-Company">GitHub</a> | <a href="https://69324aeddcbd1324310464e9-tcmytslxpa.chromatic.com/">디자인 시스템</a></td>
+    <td><a href="https://github.com/Mockly-Company">GitHub</a> | <a href="https://69324aeddcbd1324310464e9-giibikyaod.chromatic.com/">디자인 시스템</a></td>
   </tr>
   <tr>
     <th colspan="5">
